@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://smalobola.netlify.app"><img  width="80%" src="Maddd Science.jpeg" alt="sizwe malobola Banner"></a>
+  <a href="https://smalobola.netlify.app"><img  width="40%" src="Maddd Science.jpeg" alt="sizwe malobola Banner"></a>
 </p>
 
-### Yo, I'm Sizwe but you can call me Viktor.
+# <p align=center > Yo, I'm Sizwe but you can call me Viktor.</p>
 
 
-## I'm a self-taught web developer, big fan of horror movies,gamer and a lover of comics & manga. I am nothing if not a man of culture.  
+## <h1 align="center" >I'm a self-taught web developer, big fan of horror movies, gamer and a lover of literature, comics & manga. I am nothing if not a man of culture.</h1>  
 
 - 🔭 My portfolio site is up, so go check it out : [PORTFOLIO][website]!
 - 🌱 I’m currently learning everything that has to do with front-end web development
@@ -28,7 +28,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sizwemalobola&theme=dark" alt="sizwemalobola" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sizwemalobola&theme=dark" alt="sizwemalobola" /></p>
 
 
 [website]: https://smalobola.netlify.app
