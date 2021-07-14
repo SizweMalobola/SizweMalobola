@@ -10,7 +10,7 @@
 - 🔭 My portfolio site is up, so go check it out : [PORTFOLIO][website]!
 - 🌱 I’m currently learning everything that has to do with front-end web development
 - 👯 I’m looking to collaborate with other badass programmers
-- 🥅 2021 Goals: Get Paid
+- 🥅 2021 Goals: Get Gud!
 - ⚡ Fun fact: Godzilla is a total badass
 
 
