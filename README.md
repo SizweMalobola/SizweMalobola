@@ -10,7 +10,7 @@
 ## <h1 align="center" >I'm a self-taught web developer, big fan of horror movies, gamer and a lover of literature, comics & manga. I am nothing if not a man of culture.</h1>  
 
 - 🔭 My portfolio site is up, so go check it out : [PORTFOLIO][website]!
-- 🌱 I’m currently learning everything that has to do with front-end web development
+- 🌱 I’m currently learning everything that has to do with front-end web development and going back to my roots by learning modern Ruby & Ruby On Rails.
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Get Good!
 - ⚡ Fun fact: Godzilla is a total badass
