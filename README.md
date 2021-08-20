@@ -30,7 +30,7 @@
 
 ---
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sizwemalobola&theme=dark" alt="sizwemalobola" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sizwemalobola&theme=light" alt="sizwemalobola" /></p>
 
 
 [website]: https://smalobola.netlify.app
