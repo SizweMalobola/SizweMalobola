@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything that has to do with front-end web development
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: get better at Ruby & Ruby On Rails.
-- ⚡ Fun fact: Godzilla is a total badass
+- ⚡ Fun fact: This is the end of the world
 
 
 ### Connect with me:
