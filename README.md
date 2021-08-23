@@ -1,4 +1,4 @@
-# <p align=center >"Study strategy over the years and achieve the spirit of the warrior. Today is victory over yourself of yesterday; tomorrow is your victory over lesser men." - Miyamoto Musashi</p>
+# <p align=center >"Study strategy over the years and achieve the spirit of the warrior. Today is victory over yourself of yesterday; tomorrow is your victory over lesser men." --Miyamoto Musashi</p>
 
 <p align="center">
   <a href="https://smalobola.netlify.app"><img  width="40%" src="Maddd Science.jpeg" alt="sizwe malobola Banner"></a>
